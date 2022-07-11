@@ -20,7 +20,7 @@ b)  What additional steps would be needed to make the table 2NF, and why?
 [your answer]
 
 c)  Why might we not want to normalize data to the fullest extent possible?
-
+Because normalization may make model underfit or overfit.
 [your answer]
 
 d)  In the table below, which of the three normalization rules does this violate, if any, and why?
